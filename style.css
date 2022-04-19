@@ -288,8 +288,8 @@ h2 {
     height: 100%;
     flex-direction: row;
     flex-wrap: wrap;
-    margin: 2%;
-    gap: 1%;
+    margin: 5%;
+    gap: 2%;
     align-items: center;
     justify-content: space-evenly;
     flex-shrink: 0;
