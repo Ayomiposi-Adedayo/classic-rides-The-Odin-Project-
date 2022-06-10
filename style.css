@@ -1,19 +1,27 @@
-html body {
-    height: 100%;
+html {
+height: 100%;
+
     width: 100%;
+}
+body {
+    height: 100%;
+width:1440px;
+    max-width: 100%;
 }
 
 @media only screen and (max-width: 800px) {
     html {
         height: auto;
         width: 610px;
+max-width: 100%;
     }
 }
 
 @media only screen and (max-width: 800px) and (min-width: 430px) {
     html {
-        height: auto;
+        height: 100%;
         width: 800px;
+max-width: 100%;
     }
 }
 
