@@ -39,6 +39,7 @@ width:100%;
 max-width: 1440px;
 }
 
+/*
 @media only screen and (max-width: 800px) {
     .container {
         display: flex;
@@ -46,7 +47,7 @@ max-width: 1440px;
         width: 100%;
     }
 }
-
+*/
 .header {
     background-color: #fac29500;
     height: 15%;
